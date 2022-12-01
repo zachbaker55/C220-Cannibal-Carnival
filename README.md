@@ -1,4 +1,4 @@
-# Creepy Cannibal Carnival
+# Cannibal Carnival
 
 Game Jam for ML_MSCH_C220 at Indiana University, created December 1st, 2022
 
