@@ -4,11 +4,11 @@ Game Jam for ML_MSCH_C220 at Indiana University, created December 1st, 2022
 
 ## Theme
 
-We wanted to twist the theme and take it literally and metaphorically in a dark way, which is the human body
+We wanted to twist the theme and take it a bit more literally in a twisted way, by using cannabalism instead of regular food.
 
 ## Game Play
 
-Using the moving keys, find six different NPCs. Then, answer the question to get part of the human body.
+Using the moving keys, find six different NPCs. Then, answer the question to get a bodypart.
 
 ## Impediments
 
@@ -27,12 +27,11 @@ Built using [Godot 3.5](https://godotengine.org/download)
 ## References
 
 
-* Item Sound [Freesound](https://freesound.org/people/eZZin/sounds/545857/)
+Creepy halloween music: https://pixabay.com/music/scary-childrens-tunes-halloween-background-music-122602/
+QuentinCaps font: https://1001fonts.com/quentincaps-font.html
+Dialogic: https://dialogic.coppolaemilio.com
 
-* Dialogue [Freesound](https://freesound.org/people/MATRIXXX_/sounds/453037/)
-
-* Walking [Freesound](https://freesound.org/people/markagames/sounds/444666/)
-
+All other assets created by us
 ## Future Development
 None
 
@@ -48,4 +47,4 @@ None
 
 * Sean Kang
 
-  * Sound effects/music, dialogue
+  * Sound effects/music, dialogue, world design
