@@ -27,9 +27,11 @@ Built using [Godot 3.5](https://godotengine.org/download)
 ## References
 
 
-Creepy halloween music: https://pixabay.com/music/scary-childrens-tunes-halloween-background-music-122602/
-QuentinCaps font: https://1001fonts.com/quentincaps-font.html
-Dialogic: https://dialogic.coppolaemilio.com
+[Creepy halloween music](https://pixabay.com/music/scary-childrens-tunes-halloween-background-music-122602/)
+
+[QuentinCaps font](https://1001fonts.com/quentincaps-font.html)
+
+[Dialogic](https://dialogic.coppolaemilio.com)
 
 All other assets created by us
 ## Future Development
